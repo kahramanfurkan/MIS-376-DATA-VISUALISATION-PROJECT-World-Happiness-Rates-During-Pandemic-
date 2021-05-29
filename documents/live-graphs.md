@@ -1,4 +1,5 @@
 #2018 World Happiness Rates
+
 https://datawrapper.dwcdn.net/Ao9Ve/1/
 
 #2019 World Happiness Rates  >
