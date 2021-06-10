@@ -1,5 +1,8 @@
 # Change in Happiness Rates Worldwide During The Pandemic
 
+### Video Presentation ###
+https://drive.google.com/file/d/1MGs72ktZNkZOv_-qadCngsbpCk47RdQ4/view?usp=sharing
+
 ### Part-A : Problem Description ###
 
 *There is a report called "Happiness Report" which is accepted around the world. And this list includes the happiness rates in all countries of the world. The problem I want to address in this project is how the happiness rates have changed all over the world since the first quarter of 2020, the date of the Covid-19 outbreak. . How has Covid-19 affected people's happiness? In this project, we will examine the change in the pandemic process together with visuals and data.*
